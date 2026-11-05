@@ -39,8 +39,8 @@ Make sure you have a C++ compiler installed, such as GCC.
 Clone the repository:
 
 ```bash
-git clone https://github.com/nandamfmf/Sistema-loja.git
-cd Sistema-loja
+git clone https://github.com/nandamfmf/Store_management.git
+cd Store_management
 ```
 
 Compile the project:
@@ -60,7 +60,7 @@ Run the compiled program:
 ## Project Structure
 
 ```text
-Sistema-loja/
+Store_management/
 ├── main.cpp
 ├── inventario.cpp
 ├── inventario.h
